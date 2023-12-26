@@ -1,7 +1,7 @@
 # Waste_Segregation
 
 arduino
-const int irSensorPin = 2;           // Digital pin for IR sensor
+const int irSensorPin = 2;            // Digital pin for IR sensor
 const int moistureSensorPin = A0;    // Analog pin for moisture sensor
 
 void setup() {
